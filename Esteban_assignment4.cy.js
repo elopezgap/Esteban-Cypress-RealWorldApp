@@ -1,3 +1,4 @@
+
 const apiBankAccounts = `${Cypress.env("apiUrl")}/bankAccounts`;
 
 describe('API Bank Account tests ', function () {
